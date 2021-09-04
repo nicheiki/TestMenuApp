@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">HammerFood</string>
+    <string name="food_item_title">Название</string>
+    <string name="food_item_text">Текст</string>
+    <string name="food_item_price">300 P</string>
+    <string name="food_item_description">Блюдо</string>
+    <string name="nothing_is_found">Ничего не найдено</string>
+    <string name="reload">Обновить</string>
+
+    <string-array name="locations_spinner">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Новосибирск</item>
+        <item>Екатеринбург</item>
+        <item>Казань</item>
+        <item>Нижний Новгород</item>
+        <item>Челябинск</item>
+        <item>Самара</item>
+        <item>Омск</item>
+        <item>Ростов-на-Дону</item>
+        <item>Уфа</item>
+        <item>Красноярск</item>
+        <item>Воронеж</item>
+        <item>Пермь</item>
+        <item>Волгоград</item>
+    </string-array>
+
+    <string-array name="food_categories">
+        <item>Пицца</item>
+        <item>Комбо</item>
+        <item>Десерты</item>
+        <item>Напитки</item>
+        <item>Другое</item>
+    </string-array>
+
+</resources>

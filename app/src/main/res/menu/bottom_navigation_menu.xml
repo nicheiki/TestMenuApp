@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu"
+        android:enabled="true"
+        android:icon="@drawable/ic_fast_food_icon"
+        android:title="Меню"/>
+    <item
+        android:id="@+id/profile"
+        android:enabled="true"
+        android:icon="@drawable/ic_profile_icon"
+        android:title="Профиль"/>
+    <item
+        android:id="@+id/cart"
+        android:enabled="true"
+        android:icon="@drawable/ic_basket_icon"
+        android:title="Корзина"/>
+
+</menu>
